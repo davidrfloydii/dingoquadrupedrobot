@@ -7,4 +7,4 @@ The first modificaiton was to the front of the Dingo robot, it removes the plast
 
 ## New Fan Housing
 This new fan housing creates tabs to act as the hinge. Reduces the number of pieces that need to be ordered.
-![alt text]([image url "image Title"](https://github.com/davidrfloydii/dingoquadrupedrobot/blob/main/Revised%20Fan%20Housings%20v2.png?raw=true))
+![]("https://raw.githubusercontent.com/davidrfloydii/dingoquadrupedrobot/main/Revised%20Fan%20Housings%20v2.png")
