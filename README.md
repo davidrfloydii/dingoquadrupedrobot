@@ -5,7 +5,7 @@ Modifications to Dingo Quadruped Robot
 Since the original files were Altium designer I recreated the board in KiCAD. Not 100% the same since it uses through hole components for the resistors and the diode.
 ![](https://raw.githubusercontent.com/davidrfloydii/dingoquadrupedrobot/main/img/DingoPCB_Through_Hole_Components.png)
 
-## Modified Base Plate
+## [Modified Base Plate](https://github.com/davidrfloydii/dingoquadrupedrobot/blob/main/CAD/Dingo%20Base%20Plate%20Printed.step)
 Instead of ordering the Acrylic pieces you can try to print your own base plates. **Note**: This is not verified to hold up to the stresses of the robot. However if you decide to go this route be sure to use 100% infill for these pieces. Also blue the two halves together. Since it is printed this will have stand offs for 2 of the Raspberry Pi mounts and the rear of the front buck converter.
 ![](https://raw.githubusercontent.com/davidrfloydii/dingoquadrupedrobot/main/img/Base_Plate.png)
 
