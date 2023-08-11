@@ -1,7 +1,7 @@
 # dingoquadrupedrobot
 Modifications to Dingo Quadruped Robot
 
-## KiCAD PCB
+## [KiCAD PCB](https://raw.githubusercontent.com/davidrfloydii/dingoquadrupedrobot/main/PCB/)
 Since the original files were Altium designer I recreated the board in KiCAD. Not 100% the same since it uses through hole components for the resistors and the diode.
 ![](https://raw.githubusercontent.com/davidrfloydii/dingoquadrupedrobot/main/img/DingoPCB_Through_Hole_Components.png)
 
