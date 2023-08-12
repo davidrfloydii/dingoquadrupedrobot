@@ -21,3 +21,6 @@ The first modificaiton was to the front of the Dingo robot, it removes the plast
 This new fan housing creates tabs to act as the hinge. Reduces the number of pieces that need to be ordered.
 ![](https://raw.githubusercontent.com/davidrfloydii/dingoquadrupedrobot/main/img/Revised%20Fan%20Housings%20v2.png)
 
+## [Revised IMU Mount]((https://github.com/davidrfloydii/dingoquadrupedrobot/blob/main/CAD//Revised%20IMU%20Mount%20v4.step)
+I updated the IMU mount because the version I ordered here in the US had slightly different pattern for mounting holes. Additionally the 3 digit display I ordered from Amazon also had slightly different mounting holes. If you are using the same components you can use this step file.
+![](https://raw.githubusercontent.com/davidrfloydii/dingoquadrupedrobot/main/img/Revised_IMU_Mount_v4.png)
