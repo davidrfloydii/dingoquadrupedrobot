@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Rear LCD Holder v1.step',
-/* time_stamp */ '2023-08-11T18:48:19-05:00',
+/* name */ 'Rear LCD Holder.step',
+/* time_stamp */ '2023-08-19T06:33:05-05:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
