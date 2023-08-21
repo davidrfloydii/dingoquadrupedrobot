@@ -7,7 +7,6 @@ if [[ `id -u` -ne 0 ]]; then
     exit 1; 
 else    
     apt update -y
-    apt upgrade -y
     apt install ubuntu-desktop curl -y
     apt update -y
     sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
